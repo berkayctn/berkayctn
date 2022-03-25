@@ -39,7 +39,7 @@
   
 </p>
 
-- 📫 How to reach me: berkaycetin1710@gmail.com
+📫 How to reach me: berkaycetin1710@gmail.com
 
 
 <!--
