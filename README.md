@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
-<h3 align="center">I am a computer science student who loves technology and self-development.</h3><hr></hr>
+<h3>I am a computer science student who loves technology and self-development.</h3>
+
+<hr></hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
